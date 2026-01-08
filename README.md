@@ -9,7 +9,7 @@ Este repositório foi criado como parte de uma atividade acadêmica da faculdade
 * `git branch`: Gerenciamento de ramificações.
 * `git checkout`: Alternância entre ambientes.
 * `git merge`: União de histórico de trabalho.
-
+* `Pull request`: unir suas alterações a um projeto principal. 
 ## Objetivo
 O intuito principal deste projeto é praticar os conceitos fundamentais de controle de versão, incluindo:
 * Criação de repositórios.
@@ -19,4 +19,3 @@ O intuito principal deste projeto é praticar os conceitos fundamentais de contr
 ## Tecnologias Utilizadas
 * Git.
 * GitHub.
-
